@@ -1,0 +1,21 @@
+[
+  {
+    "id": "booking-1791521223417-vabs2",
+    "createdAt": "2026-10-09T04:47:03.417Z",
+    "parentName": "Test Parent",
+    "studentName": "Test Student",
+    "studentGrade": "Grades 5–8",
+    "subjectInterest": "Python",
+    "email": "test@example.com",
+    "phone": "+91 9999999999",
+    "preferredDate": "2026-10-15",
+    "preferredTime": "04:00 PM - 05:00 PM",
+    "timezone": "IST (UTC+5:30)",
+    "notes": "Wants to learn Python",
+    "status": "confirmed",
+    "notificationSentTo": [
+      "aishwaryagowda227@gmail.com",
+      "test@example.com"
+    ]
+  }
+]

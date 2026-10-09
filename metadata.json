@@ -1,0 +1,6 @@
+{
+  "name": "Pavan Gowda B S - Portfolio",
+  "description": "A full-stack editorial blog platform featuring public visitor reading and a dedicated, secure publisher studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

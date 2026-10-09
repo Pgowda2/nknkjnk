@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "_id": "usr_1789875730955",
+      "name": "Madhurya Gowda SR",
+      "email": "publisher@blog.local",
+      "passwordHash": "$2b$10$V8b/pOmM4suJC.BYIkzOVOQQ7o1JcDkf9QpNFF4Xsr1.mrQBB6yhO",
+      "role": "publisher",
+      "createdAt": "2026-09-20T03:42:10.955Z",
+      "updatedAt": "2026-09-20T03:42:10.955Z"
+    },
+    {
+      "_id": "usr_1789875944158",
+      "name": "Madhurya",
+      "email": "maddyvirat99@gmail.com",
+      "passwordHash": "$2b$10$1z1fW7UgIlcdeE9WfaOHWeVGJV/Ef/fzh8aSBKlV023wNknvvByEe",
+      "role": "publisher",
+      "createdAt": "2026-09-20T03:45:44.158Z",
+      "updatedAt": "2026-09-20T03:45:44.158Z"
+    },
+    {
+      "_id": "usr_1789876215592_wm7k",
+      "name": "Pavan Gowda B S",
+      "email": "pgowda6021@gmail.com",
+      "passwordHash": "$2b$10$t6sblu0ZK/BIxhmPq71aGOFe.cvVTjHiJaZiXBtHgI2qP8ODCrMH.",
+      "role": "publisher",
+      "createdAt": "2026-09-20T03:50:15.592Z",
+      "updatedAt": "2026-09-20T03:50:15.592Z"
+    },
+    {
+      "_id": "usr_1791476194651_zo3x",
+      "name": "Aishwarya Gowda S R",
+      "email": "aishwaryagowda227@gmail.com",
+      "passwordHash": "$2b$10$JIyxHhQUdG9WQnEgqYu5COxVUChwsQAyaISZb6uFlggQxGk3zMJGS",
+      "role": "publisher",
+      "createdAt": "2026-10-08T16:16:34.651Z",
+      "updatedAt": "2026-10-08T16:16:34.651Z"
+    }
+  ],
+  "posts": []
+}
